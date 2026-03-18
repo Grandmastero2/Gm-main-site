@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="297mm"
+   height="297mm"
+   viewBox="0 0 297 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.1 (1:1.4.1+202503302257+93de688d07)"
+   sodipodi:docname="new gm logo 2alt.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.59"
+     inkscape:cx="556.77966"
+     inkscape:cy="549.15254"
+     inkscape:window-width="1366"
+     inkscape:window-height="736"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient2"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#a70625;stop-opacity:1;"
+         offset="0.41078201"
+         id="stop3" />
+      <stop
+         style="stop-color:#2705be;stop-opacity:1;"
+         offset="0.57536358"
+         id="stop4" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient1"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#ffdda0;stop-opacity:1;"
+         offset="0"
+         id="stop1" />
+      <stop
+         style="stop-color:#ffb118;stop-opacity:1;"
+         offset="1"
+         id="stop2" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1"
+       id="radialGradient2"
+       cx="107.34269"
+       cy="137.3764"
+       fx="107.34269"
+       fy="137.3764"
+       r="85.095505"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2"
+       id="linearGradient4"
+       x1="108.16224"
+       y1="194.62328"
+       x2="108.16225"
+       y2="78.351692"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-1.0499339)" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(41.15731,11.123596)">
+    <path
+       sodipodi:type="star"
+       style="fill:url(#radialGradient2);fill-opacity:1;stroke-width:0.264583"
+       id="path1"
+       inkscape:flatsided="false"
+       sodipodi:sides="12"
+       sodipodi:cx="107.34269"
+       sodipodi:cy="137.3764"
+       sodipodi:r1="85.095505"
+       sodipodi:r2="68.450432"
+       sodipodi:arg1="1.5707963"
+       sodipodi:arg2="1.8321428"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 107.34269,222.47191 -17.686328,-18.96945 -24.861423,7.56881 -5.832087,-25.27118 -25.31503,-5.87593 7.584858,-24.80154 -18.985495,-17.74621 18.969447,-17.68633 -7.568812,-24.861427 25.271188,-5.832087 5.875927,-25.31503 24.801535,7.584859 17.74622,-18.985496 17.68633,18.969448 24.86142,-7.568813 5.83209,25.271188 25.31503,5.875927 -7.58486,24.801531 18.98549,17.74622 -18.96944,17.68633 7.56881,24.86142 -25.27119,5.83209 -5.87593,25.31503 -24.80153,-7.58486 z" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:105.833px;font-family:'Arabic Typesetting';-inkscape-font-specification:'Arabic Typesetting';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:url(#linearGradient4);fill-opacity:1;stroke-width:0.264583"
+       x="45.669167"
+       y="161.29213"
+       id="text2"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:105.833px;font-family:'Arabic Typesetting';-inkscape-font-specification:'Arabic Typesetting';fill:url(#linearGradient4);fill-opacity:1;stroke-width:0.264583"
+         x="45.669167"
+         y="161.29213">GM</tspan></text>
+    <path
+       style="fill:#a70625;stroke-width:0.264583"
+       d="M 60.122747,212.56493 55.590363,189.2896 32.315033,184.55275 21.009822,224.37322 Z"
+       id="path4" />
+    <path
+       style="fill:#a70625;stroke-width:0.264583"
+       d="m 103.97193,226.47232 -15.757675,-17.71945 -22.441641,7.78149 10.558279,40.02499 z"
+       id="path4-3" />
+    <path
+       style="fill:#a70625;stroke-width:0.264583"
+       d="m 110.75334,226.50147 15.75767,-17.71945 22.44164,7.78149 -10.55828,40.02499 z"
+       id="path4-3-1" />
+    <path
+       style="fill:#a70625;stroke-width:0.264583"
+       d="m 154.34762,212.45688 4.53239,-23.27533 23.27533,-4.73685 11.30521,39.82047 z"
+       id="path4-36" />
+    <path
+       style="fill:#a70625;stroke-width:0.264583;fill-opacity:1"
+       d="m 28.834502,178.96522 7.146767,-22.6099 -18.178395,-15.28805 -28.967141,29.56995 z"
+       id="path4-1" />
+    <path
+       style="fill:#2705be;fill-opacity:1;stroke-width:0.264583"
+       d="m 29.508112,95.975415 7.146767,22.609905 -18.178395,15.28805 -28.967142,-29.56995 z"
+       id="path4-1-0" />
+    <path
+       style="fill:#a70625;fill-opacity:1;stroke-width:0.264583"
+       d="m 185.74269,178.71766 -7.14677,-22.6099 18.1784,-15.28805 28.96714,29.56995 z"
+       id="path4-1-9" />
+    <path
+       style="fill:#2705be;fill-opacity:1;stroke-width:0.264583"
+       d="m 185.7599,95.95213 -7.14677,22.60991 18.1784,15.28805 28.96714,-29.56995 z"
+       id="path4-1-0-7" />
+    <path
+       style="fill:#2705be;stroke-width:0.264583;fill-opacity:1"
+       d="m 155.0828,62.229993 4.53239,23.27533 23.27533,4.73685 11.30521,-39.82047 z"
+       id="path4-36-9" />
+    <path
+       style="fill:#2705be;stroke-width:0.264583;fill-opacity:1"
+       d="m 59.955273,62.080655 -4.532384,23.27533 -23.27533,4.73685 -11.305211,-39.82047 z"
+       id="path4-7" />
+    <path
+       style="fill:#2705be;fill-opacity:1;stroke-width:0.264583"
+       d="m 104.1812,48.448419 -15.757676,17.71945 -22.44164,-7.78149 10.55828,-40.02499 z"
+       id="path4-3-3" />
+    <path
+       style="fill:#2705be;fill-opacity:1;stroke-width:0.264583"
+       d="m 111.01331,48.473336 15.75767,17.71945 22.44164,-7.78149 -10.55828,-40.02499 z"
+       id="path4-3-3-3" />
+  </g>
+</svg>
