@@ -1,0 +1,111 @@
+
+body{
+    margin: 0;
+    background-color: #202020;
+}
+
+
+@keyframes Fadein {
+    0%{
+        opacity: 0;
+    }
+    100%{
+        opacity: 1;
+    }
+}
+@keyframes Up {
+    0%{
+        transform: translateY(50px);
+        opacity: 0;
+    }
+    100%{
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+@keyframes Rotate {
+    0%{
+        rotate: 0;
+    }
+    100%{
+        rotate: 360deg;
+    }
+}
+.Panel{
+    animation: Fadein .5s ease-in-out;
+    display: flex;
+    background: linear-gradient(to bottom,#A70625 10%,#2705BE 50%,#FFB21B 110%);
+    box-shadow: 5px 5px 5px #ffffff17;
+    align-items: end;
+    height: 250px;
+    justify-content: center;
+}
+.Logo{
+    width: 150px;
+    margin: 0% 10% 0% 10%;
+    background-color: #fff;
+    border-radius: 50%;
+}
+.Logo img{
+    width: 150px;
+}
+
+.Info{
+    position: fixed;
+    left: 10px;
+    background-color: #202020a4;
+    padding: 10px;
+    border-radius: 15px;
+
+}
+.Info h3{
+    color: #fff;
+}
+
+.Page{
+
+    animation: Up 1s ease-in-out;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.Page h2{
+    padding: 20px;
+    margin: 20px;
+    background-color: #fff;
+    border-radius: 30px;
+
+}
+.Projects{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.Projects h2{
+    padding-right:70px ;
+    padding-left:70px ;
+}
+.MD{
+    padding: 20px;
+    margin: 20px;
+    background-color: #fff;
+    border-radius: 30px;
+}
+.MD h2{
+    padding: 0px;
+}
+.MD h2:hover{
+    padding: 5px;
+}
+h2{
+    transition: all .3s ease-in-out;
+}
+
+h2:hover{
+    transition: all .3s ease-in-out;
+    padding: 25px;
+    cursor: pointer;
+}
